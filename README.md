@@ -4,7 +4,7 @@
 
 ## I'm a software engineering student at the University of Seville
 
-- 🌱 I’m currently in my third year of software engineering degree.
+- 🌱 I’m currently at my third year of software engineering degree.
 - 👯 I’m looking to collaborate with other engineers so I can learn from them.
 - 🔭 Spanish is my native language, and I also have a B2 english level that I'm looking forward to improving!
 - 🥅 Future Goals: I'd like to finish my degree next year and then take an IA master's degree in a foreign country.
@@ -39,7 +39,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=juradosalado&show_icons=true&hide_border=true" />
+  <img align="left" alt="juradosalado's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=juradosalado&show_icons=true&hide_border=true" />
 
 </details>
 
