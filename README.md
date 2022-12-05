@@ -18,16 +18,19 @@
 
 ### Languages and Tools:
 
+- Python
+- Java
+- C
+- JavaScript
+- HTML 5
+- CSS3
+- Django
+- Spring Boot
 - Visual Studio Code
 - Git
 - GitHub
-- HTML 5
-- CSS3
-- JavaScript
-- Java
-- Python
-- C
 - MySQL
+- SQLite
 
 <br />
 <br />
