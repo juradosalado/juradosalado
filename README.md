@@ -4,10 +4,10 @@
 
 ## I'm a software engineering student at the University of Seville
 
-- 🌱 I’m currently at my third year of software engineering degree.
+- 🌱 I’m currently at my fourth and last year at the bachelor of software engineer.
 - 👯 I’m looking to collaborate with other engineers so I can learn from them.
-- 🔭 Spanish is my native language, and I also have a B2 english level that I'm looking forward to improving!
-- 🥅 Future Goals: I'd like to finish my degree next year and then take an IA master's degree in a foreign country.
+- 🔭 Spanish is my native language, and I also have a Cambridge English B2 First certificate that I'm looking forward to improving!
+- 🥅 Future Goals: I'd like to finish my bachelor this year and to start working!
 - ⚡ Fun fact: I also love writing and reading novels.
 
 ### Connect with me:
