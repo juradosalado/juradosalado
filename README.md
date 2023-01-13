@@ -7,8 +7,12 @@
 - 🌱 I’m currently at my fourth and last year at the bachelor of software engineer.
 - 👯 I’m looking to collaborate with other engineers so I can learn from them.
 - 🔭 Spanish is my native language, and I also have a Cambridge English B2 First certificate that I'm looking forward to improving!
-- 🥅 Future Goals: I'd like to finish my bachelor this year and to start working!
+- 🥅 Future Goals: I'd like to finish my bachelor this year and to start working in Dublin city!
 - ⚡ Fun fact: I also love writing and reading novels.
+
+### [Visit my personal portfolio here](https://juradosalado.github.io/portfolio/).
+
+
 
 ### Connect with me:
 
