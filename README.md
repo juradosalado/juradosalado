@@ -12,13 +12,9 @@
 
 ### [Visit my personal portfolio here](https://juradosalado.github.io/portfolio/).
 
-
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
+
+### [Visit my Linkin profile here](https://www.linkedin.com/in/juan-salado-jurado-65aa63231/)
 
 ### Languages and Tools:
 
