@@ -10,12 +10,18 @@
 - ⚡ Fun fact: I also love writing and reading novels.
 
 ## Skills
-- **Programming Languages:** [Python, Java, C, JavaScript, R]
-- **Web Development:** [List of web technologies, frameworks, or libraries you're experienced with]
-- **Database:** [List of databases you're familiar with]
-- **Version Control:** [e.g., Git, GitHub]
-- **Software Development Life Cycle (SDLC):** [e.g., Agile, Scrum]
-- **Problem Solving:** [Mention any problem-solving skills or algorithms knowledge]
+- **Programming Languages:** Python, Java, C, JavaScript, R
+- **Web Development:** HTML 5, CSS, Spring Boot Framework, Django, Silent Framework
+- **Database:** Sqlite, MySQL, SQL
+- **Version Control:** Git, GitHub
+- **Software Development Life Cycle (SDLC):** Agile, Scrum
+- **Problem Solving:** Theoretical knowledge of algorithm design, computation of complexities, and implementation of algorithms in Java, Python, C, and R
+
+## Projects
+- DTechnology e-comerce: [E-comerce project developed with Django Framework](http://dtechnology.pythonanywhere.com/)
+- [Project 2]: Brief description or tagline of the project.
+- [Project 3]: Brief description or tagline of the project.
+- [Project 4]: Brief description or tagline of the project.
 
 
 ### [Visit my personal portfolio here](https://juradosalado.github.io/portfolio/).
