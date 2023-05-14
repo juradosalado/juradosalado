@@ -2,13 +2,21 @@
 
 
 
-## I'm a software engineering student at the University of Seville
+## I'm a software engineering graduated at University of Seville
 
-- 🌱 I’m currently at my fourth and last year at the bachelor of software engineer.
-- 👯 I’m looking to collaborate with other engineers so I can learn from them.
-- 🔭 Spanish is my native language, and I also have a Cambridge English B2 First certificate that I'm looking forward to improving!
-- 🥅 Future Goals: I'd like to finish my bachelor this year and to start working in Dublin city!
+- 🌱 I’m currently looking for a job in Dublin, Ireland, where I can prove myself and show everything I have learned..
+- 💼 I have worked as a web developer at VidesSur, developing a Django project  
+- 📚 Spanish is my native language, and I also have a Cambridge English B2 First certificate that I'm looking forward to improving!
 - ⚡ Fun fact: I also love writing and reading novels.
+
+## Skills
+- **Programming Languages:** [Python, Java, C, JavaScript, R]
+- **Web Development:** [List of web technologies, frameworks, or libraries you're experienced with]
+- **Database:** [List of databases you're familiar with]
+- **Version Control:** [e.g., Git, GitHub]
+- **Software Development Life Cycle (SDLC):** [e.g., Agile, Scrum]
+- **Problem Solving:** [Mention any problem-solving skills or algorithms knowledge]
+
 
 ### [Visit my personal portfolio here](https://juradosalado.github.io/portfolio/).
 
