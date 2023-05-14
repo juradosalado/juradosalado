@@ -18,10 +18,11 @@
 - **Problem Solving:** Theoretical knowledge of algorithm design, computation of complexities, and implementation of algorithms in Java, Python, C, and R
 
 ## Projects
-- DTechnology e-comerce: [E-comerce project developed with Django Framework](http://dtechnology.pythonanywhere.com/)
-- [Project 2]: Brief description or tagline of the project.
-- [Project 3]: Brief description or tagline of the project.
-- [Project 4]: Brief description or tagline of the project.
+- DTechnology e-comerce: E-comerce project developed with Django Framework. [Deployment](http://dtechnology.pythonanywhere.com/) [Repository](https://github.com/TomasCB24/DTechnology)
+- RecoBook: Dialogflow chatbot for book recommendations. [Deployment](http://recobook.pythonanywhere.com/) [Repository](https://github.com/juradosalado/RecoBook)
+- Innoweb certification webside: Webside to generate certifications for university events. [Deployment](https://innosoftinnoweb.pythonanywhere.com/) [Repository](https://github.com/innosoft-innoweb/innosoft-innoweb-1)
+- Harvard CS50 AI projects: Artificial Inteligence bots for TicTacToe game and Knight and Knaves game. [Tic Tac Toe](https://github.com/juradosalado/tictactoebot) [Knight and Knaves](https://github.com/juradosalado/knightsKnavesBot)
+- Seven Islands Web Game: Online Game developed with Spring Boot framework. [Repository](https://github.com/gii-is-DP1/dp1-2021-2022-l8-1)
 
 
 ### [Visit my personal portfolio here](https://juradosalado.github.io/portfolio/).
